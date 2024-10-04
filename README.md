@@ -13,6 +13,9 @@ Tampilkan informasi alumni yang terintegrasi dengan mudah menggunakan shortcode 
 Shortcode: [form-cetak-kartu]
 Sediakan kemudahan dalam mencetak kartu siswa baru dengan shortcode ini. Pengguna dapat mengakses formulir cetak yang sederhana dan efektif, memungkinkan pengeluaran kartu identitas yang profesional dan rapi. Pastikan setiap siswa memiliki kartu yang siap digunakan dengan hanya beberapa klik!
 
+cara pasang plugin:
+https://www.youtube.com/watch?v=FoXd4G3f_14
+
 Wa : 083119799815
 
 donasi dana : 085261762764 (Thoriq)
